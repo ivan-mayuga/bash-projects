@@ -1,0 +1,1 @@
+My first project is to create a student file manager using bash and also to learn basic commands from bash

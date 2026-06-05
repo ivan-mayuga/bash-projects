@@ -1,0 +1,1 @@
+Bash is a scripting language that i can use to automate task, and do something devops engineer do.
